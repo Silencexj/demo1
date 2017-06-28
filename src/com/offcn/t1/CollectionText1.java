@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 
 public class CollectionText1 {
-
+	//修改后dddd
 	public static void main(String[] args) {
 		  Collection list =new ArrayList();
 		  list.add("计算机网络");
